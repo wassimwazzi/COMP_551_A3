@@ -3,3 +3,5 @@ Welcome to the competition page!
 As a part of project #3, you are asked to train an image classifier that can successfully predict the characters in the input. Each image consists of two characters: one letters and one number, which may appear anywhere in the image. These characters have different orientation, size, and style. The image can also be affected by a variety of noises. Your job is to predict the letter out of 26 alphabet (A-Z) and the digit out of 10 digits (0-9) in the given image correctly. The images may contain either upper or lower case letters.
 
 To help you train the classifier, we provide you with 30,000 labelled images. We also provide you with 30,000 images but their labels are missing. You may choose to use these images to train your classifier to obtain better accuracy. You will have to predict the labels for the images in the test set and upload the predictions on Kaggle to get a score. It is important that you submit to Kaggle in the right format as described in the evaluation tab, otherwise your answer will not be accepted.
+
+https://www.kaggle.com/c/comp-551-fall-2021
