@@ -1,4 +1,4 @@
-## Welcome to the competition page!
+Welcome to the competition page!
 
 As a part of project #3, you are asked to train an image classifier that can successfully predict the characters in the input. Each image consists of two characters: one letters and one number, which may appear anywhere in the image. These characters have different orientation, size, and style. The image can also be affected by a variety of noises. Your job is to predict the letter out of 26 alphabet (A-Z) and the digit out of 10 digits (0-9) in the given image correctly. The images may contain either upper or lower case letters.
 
